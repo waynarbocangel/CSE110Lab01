@@ -12,13 +12,13 @@
 </table>
 
 ## Index
-1. About me
-   - Who am I?
-   - From Bolivia to San Diego
-2. Projects
-   - Overview
-   - BITFROST SRL
-3. Hobies and Interests
+1. [About me](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#about-me)
+   - [Who am I?](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#who-am-i)
+   - [From Bolivia to San Diego](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#who-am-i)
+2. [Projects](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#projects)
+   - [Overview](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#overview)
+   - [BITFROST](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#bitfrost-srl)
+3. Hobbies and Interests
 4. Contact Information
 
 
@@ -32,6 +32,7 @@ _A famous street in La Paz where people go buy products for witchcraft also know
 ![screenshot](./resources/plaza_murillo.jpg)
 _The main square in La Paz._
 
+
 ### From Bolivia to San Diego
 In August of 2019 I left my hometown and moved to San Diego, California, a place I had never even visited before. Ever since I was eight I knew I wanted to work with computers and by the age of 12 I knew I wanted to build software, but I did not start coding until I was 16. Bolivia's universities unfurtunately do not offer any **Computer Science** degrees, and so I was determined to move to the United States for college. I got into several competitive schools, but my heart pulled me towards **_UC San Diego_** because of what my parents would call not relevant reasons. As a musician and music lover, the San Diego Music scene and the proximity to Los Angeles were key factors in deciding where I would go to study. In addition to that, factors like weather and closeness to the Bay Aread motivated me to have a leap of faith and choose UCSD as my college. I don't regret my decision!
 
@@ -44,7 +45,7 @@ When I first started Computer Engineering at UC San Diego I was not sure about t
 
 That is why this past year for me has been about doing tangible goods for as many people as possible.
 
-### BITFROST SRL
+### BITFROST
 <table>
     <tr>
         <td>
@@ -77,3 +78,19 @@ function alexandria(student){
 You can find more information about Alexandria in our Notion. We are close to releasing our first beta after a year of development, check it out!
 
 **[Alexandria Notion Page](https://www.notion.so/Alexandria-Overview-5a5fa38a84ee42fca9d4b7f658416636)**
+
+
+## Hobbies and interests
+I am a musician. I played the piano since I was 8, the flute from ages 10 to 13, the drums since I was 12, and my current main instrument the guitar since I was 14. I am currently planning to get a minor in music from the UCSD department of music, and have a band with my future roomate and friend Ben Redlawsk. Taking music courses at a college level has had a tremendous impact on me and how I create music, so when I move back to San Diego I plan to go deeper into my musical interests. Here are some goals I have for the future:
+- [x] Start writting my first album
+- [x] Getting paid to play in San Diego
+- [ ] Playing in LA
+- [ ] Playing in the Bay Area
+- [ ] Get a music minor
+- [ ] Be selected in UCSD's fall music auditions for private lessons
+  
+**[Picture of my pedalboard](./resources/pedalboard.jpg)**
+
+## Contact Information
+**[My LinkedIn](https://www.linkedin.com/in/waynar-bocangel/)**
+**[My E-mail](mailto:waynarbocangel@bitfrost.app)**
