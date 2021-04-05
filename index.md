@@ -1,1 +1,2 @@
-# CSE110Lab01
+# Waynar Bocangel Calderon
+(resources/waynar_picture.jpg)
