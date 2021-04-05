@@ -1,7 +1,10 @@
 # Waynar Bocangel Calderon 
+### Computer Engineering Major at the University of California San Diego
+Welcome to my personal page! Here you will be able to learn some more about me, where I have been, and where I am headed.
+![](./resources/waynar_picture.jpg =20x20)
 <div style="margin-bottom: 20px;">
     <div style="width: 20%; text-align: center; float: right;">
-        <img src="./resources/waynar_picture.jpg" alt="Picture of Waynar Bocangel Calderon" style="border-radius: 50%;">
+        <img src="" alt="Picture of Waynar Bocangel Calderon" style="border-radius: 50%;">
     </div>
     <div style="width: 50%; padding-bottom: 30px;">
         <h3>Computer Engineering Major at the University of California San Diego</h3>
