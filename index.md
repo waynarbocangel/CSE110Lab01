@@ -8,7 +8,7 @@
 3. Hobies and Interests
 ## About me
 ### Who am I?
-Hello everyone, my name is Waynar Bocangel Calderon and I am a 20 year old **Computer Engineering Undergradute Student** at the **_University of California San Diego!_** I am currently on my second year at UC San Diego, but I have learned a thing or two about Computere science and programming by this time. I was born in **_La Paz, Bolivia_** a city _12,000 feet above sea level_. You can see some pictures of my beautiful city right bellow:
+Hello everyone, my name is Waynar Bocangel Calderon and I am a 20 year old **Computer Engineering Undergradute Student** at the **_University of California San Diego!_** I am currently on my second year at UC San Diego, but I have learned a thing or two about Computer Science and Programming by this time. I was born in **_La Paz, Bolivia_** a city _12,000 feet above sea level_. You can see some pictures of my beautiful city right bellow:
 ![screenshot](./resources/la_paz_night.jpg)
 _La Paz at night._
 ![screenshot](./resources/calle_de_las_brujas.jpg)
