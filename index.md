@@ -18,7 +18,6 @@
 2. Projects
    - Overview
    - BITFROST SRL
-   - Freelancing
 3. Hobies and Interests
 4. Contact Information
 
@@ -46,12 +45,35 @@ When I first started Computer Engineering at UC San Diego I was not sure about t
 That is why this past year for me has been about doing tangible goods for as many people as possible.
 
 ### BITFROST SRL
-<img src="./resources/bitfrost_logo.png" style="width: 20%; float: right; border-radius: 20%; padding: 0 10px 0 20px;">
-<p style="margin-bottom: 35px;">
-With this goal in mind I started a software development company this year. BITFROST SRL dedicates itself to the production of sustainable, affordable, and highly availble software. This endevour has taken me unexpected places across this past year as I develop my first large scale multi-platform application. I have learned of mobile and full-stack development to optimize our users' experience with our products. I have become proficient in: <b><i>Swift, ReactJS, JQuery, NodeJS, MongoDB, and JavaScript</i></b>. We are very exited about our first endevour: 
-</p>
+<table>
+    <tr>
+        <td>
+            <p>
+            With this goal in mind I started a software development company this year. BITFROST SRL dedicates itself to the production of sustainable, affordable, and highly availble software. This endevour has taken me unexpected places across this past year as I develop my first large scale multi-platform application. I have learned of mobile and full-stack development to optimize our users' experience with our products. I have become proficient in: <b><i>Swift, ReactJS, JQuery, NodeJS, MongoDB, and JavaScript</i></b>. We are very exited about our first endevour: 
+            </p>
+        </td>
+        <td>
+            <img src="./resources/bitfrost_logo.png">
+        </td>
+    </tr>
+</table>
+
+
 
 
 **Alexandria**
 
-This is an educational app designed to help students organize the content of their classes into books, notebooks, documents, flashcards, amongst other things. When thinking about why is education so challenging to so many studntes we thought about how difficult it is to create logical organized content
+This is an educational app designed to help students organize the content of their classes into books, notebooks, documents, flashcards, amongst other things. When thinking about why is education so challenging to so many students we thought about how difficult it is to create logical organized content for several subjects across multiple years. Specially how frustrating it can be to get into a new class and need material from 3 years ago that students cannot quite remember. Alexandria gives students the possiblilty to import books, create notebooks, generate flashcards, define studying goals and track them, and interact with other students either by sharing content or collaborating on creating new things. We like to think that we are a very simple JS script that runs:
+
+```javascript
+let collegeStudent = "stressed";
+alexandria(collegeStudent)
+
+function alexandria(student){
+    student = "less stressed and learning more";
+    console.log(student);
+}
+```
+You can find more information about Alexandria in our Notion. We are close to releasing our first beta after a year of development, check it out!
+
+**[Alexandria Notion Page](https://www.notion.so/Alexandria-Overview-5a5fa38a84ee42fca9d4b7f658416636)**
