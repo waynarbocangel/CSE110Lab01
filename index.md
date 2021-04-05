@@ -18,8 +18,8 @@
 2. [Projects](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#projects)
    - [Overview](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#overview)
    - [BITFROST](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#bitfrost-srl)
-3. Hobbies and Interests
-4. Contact Information
+3. [Hobbies and Interests](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#hobbies-and-interests)
+4. [Contact Information](https://github.com/waynarbocangel/CSE110Lab01/blob/main/index.md#contact-information)
 
 
 ## About me
